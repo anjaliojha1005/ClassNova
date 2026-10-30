@@ -1,4 +1,4 @@
-# ClassPulse — Multimodal Attendance & Classroom Activity Insights
+# ClassNova — Multimodal Attendance & Classroom Activity Insights
 
 A complete Python/Streamlit application for classroom session management, student rosters, human-verified attendance, and basic video/audio activity analysis. Data is stored locally in SQLite.
 
